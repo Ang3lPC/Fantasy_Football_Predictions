@@ -4,7 +4,7 @@
 
 ## Overview
 
-We're going to turn this code into .py files and deploy it to our own GCP instance so that it learns continously via airflow guided scheduled tasks! 
+We're going to turn this code into .py files and deploy it to our own GCP instance so that it learns continously via airflow guided scheduled tasks! Thanks Vlad for the starter 
 
 For this project, we compare the Root Mean Square Error ("RMSE")of the same dataset with varying degrees of features. The difference in features will be explained in the 'Data' section. The RMSE compared was between a dummy, linear regression, ridge, lasso, and random forest model.
 
